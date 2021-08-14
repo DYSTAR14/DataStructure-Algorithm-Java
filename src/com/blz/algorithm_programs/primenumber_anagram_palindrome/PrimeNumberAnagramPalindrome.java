@@ -1,4 +1,4 @@
-package com.blz.data_structure.primenumber_anagram_palindrome;
+package com.blz.algorithm_programs.primenumber_anagram_palindrome;
 
 import java.util.ArrayList;
 import java.util.Arrays;

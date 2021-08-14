@@ -1,4 +1,4 @@
-package com.blz.data_structure.merge_sort;
+package com.blz.algorithm_programs.merge_sort;
 
 public class MergeSort {
 

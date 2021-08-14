@@ -1,4 +1,4 @@
-package com.blz.data_structure.bubble_sort;
+package com.blz.algorithm_programs.bubble_sort;
 
 public class BubbleSort {
 

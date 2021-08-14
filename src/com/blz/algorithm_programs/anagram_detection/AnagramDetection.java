@@ -1,4 +1,4 @@
-package com.blz.data_structure.anagram_detection;
+package com.blz.algorithm_programs.anagram_detection;
 
 import java.util.Arrays;
 import java.util.Scanner;
